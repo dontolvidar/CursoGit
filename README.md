@@ -5,3 +5,4 @@
 * Sirenoman
 * Larry y la comadreja
 * Ed edd y eddy
+* Perry el ornitorrinco
