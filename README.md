@@ -3,3 +3,5 @@
 * Roboman
 * Persede
 * Sirenoman
+* Larry y la comadreja
+* Ed edd y eddy
